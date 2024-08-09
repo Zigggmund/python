@@ -1,0 +1,28 @@
+{
+    "player_list": [
+        {
+            "name": "start",
+            "songs": [
+                "korobka-peredach.mp3",
+                "Ruchnic.mp3"
+            ]
+        },
+        {
+            "name": "alot",
+            "songs": [
+                "Surf Curse - Freaks.mp3",
+                "Never Gonna Give You Up (radio edit).mp3",
+                "korobka-peredach.mp3",
+                "Ruchnic.mp3",
+                "SerogaPirat-Whereismymind.mp3"
+            ]
+        },
+        {
+            "name": "one",
+            "songs": [
+                "Polish-cow.mp3"
+            ]
+        }
+    ],
+    "current_playlist_name": "alot"
+}
