@@ -10,7 +10,7 @@ Features:
 <li>Dynamic maze solution</li>
 <li>Choosing the speed of the maze (from 1 to 10)</li>
 </ul>
------
+<hr>
 <h1>Консольная утилита для генерации и решения лабиринтов</h1>
 <h3><b>Построение по алгоритму Эйлера, решение по алгоритму Дейкстра</b></h3>
 

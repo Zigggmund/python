@@ -7,7 +7,7 @@ Music player (Python) that represents these features:
 <li>adding and deleting music from a playlist</li>
 <li>changing the order of the music</li>
 </ul>
------
+<hr>
 <h1>Музыкальный плейер</h1>
 
 Музыкальный плейер(Python), в котором возможно:

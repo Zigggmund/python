@@ -8,7 +8,7 @@ Features:
 <li>Choosing the compression level (from 0 to 8)</li>
 <li>Creating a gif of compression</li>
 </ul>
------
+<hr>
 <h1>Консольная утилита для сжатия изображений</h1>
 
 Изображения сжимаются с помощью квадродеревьев
